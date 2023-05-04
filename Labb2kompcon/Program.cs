@@ -34,7 +34,7 @@ class Program
 				Console.ForegroundColor = ConsoleColor.DarkGreen;
 			}
 			
-			else if (shape is Cuboid) // cube eller cubid
+			else if (shape is Cuboid) // cube eller cuboid
 
 			{
 				Console.ForegroundColor = ConsoleColor.DarkRed;
