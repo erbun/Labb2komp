@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser", "Labb2komp\Klasser.csproj", "{9B57511D-26F6-43E8-8780-1D0E3158F161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb2kompcon", "Labb2kompcon\Labb2kompcon.csproj", "{81FFFA86-61F4-436F-9F9A-4D946C2426B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B57511D-26F6-43E8-8780-1D0E3158F161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B57511D-26F6-43E8-8780-1D0E3158F161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B57511D-26F6-43E8-8780-1D0E3158F161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B57511D-26F6-43E8-8780-1D0E3158F161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FFFA86-61F4-436F-9F9A-4D946C2426B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FFFA86-61F4-436F-9F9A-4D946C2426B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FFFA86-61F4-436F-9F9A-4D946C2426B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FFFA86-61F4-436F-9F9A-4D946C2426B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F40FE1-7DB7-45ED-AE0F-9C565A7BE125}
+	EndGlobalSection
+EndGlobal
